@@ -1,0 +1,5 @@
+
+ docker-compose up
+ source '/Users/tdubon/SemanticSearch/bin/activate'
+ cd '/Users/tdubon/GenTextAnalyzer'
+ docker-compose up
